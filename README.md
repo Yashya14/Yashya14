@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashya14&label=Profile%20views&color=0e75b6&style=flat" alt="yashya14" /> </p>
 
-- 🔭 I’m currently working on **Javascript**
+- 🔭 I’m currently working on **App Development**
 
 - 🌱 I’m currently learning **Reactjs**
 
