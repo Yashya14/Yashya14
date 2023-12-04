@@ -35,6 +35,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Yashya14&icon=0&color=0)](https://visitcount.itsvg.in)
-<h4 align="center" style="color:fc466b;height=50px;">Thamks For Watching 🙏🏻<h4/>
+# <h3 align="center" style="color:#fc466b;height: 80px;">Thanks For Watching 🙏🏻<h3/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
