@@ -1,5 +1,5 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=50&pause=1000&color=fc466b&center=true&vCenter=true&random=false&width=435&lines=Hi+There!+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Yash+Pal)](https://git.io/typing-svg)</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=50&pause=1000&color=fc466b&center=true&vCenter=true&random=false&width=435&lines=Hi+There!+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Yash+Pal)](https://git.io/typing-svg)
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -35,6 +35,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Yashya14&icon=0&color=0)](https://visitcount.itsvg.in)
-<h4 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=50&pause=1000&color=FF476C&center=true&vCenter=true&random=false&width=435&lines=Thanks+For+Watching+%F0%9F%99%8F%F0%9F%8F%BB)](https://git.io/typing-svg)</h4>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=50&pause=1000&color=FF476C&center=true&vCenter=true&random=false&width=435&lines=Thanks+For+Watching+%F0%9F%99%8F%F0%9F%8F%BB)](https://git.io/typing-svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
