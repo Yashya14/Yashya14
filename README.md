@@ -6,7 +6,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashya14&label=Profile%20views&color=0e75b6&style=flat" alt="yashya14" /> </p>
 
 # 💫 About Me:<br>
-🔭 I’m currently working on App Development<br><br>🌱 I’m currently learning React Js<br><br>💬 Ask me about Web development<br><br>📫 How to reach me yashgajananpal@gmail.com<br><br>⚡ Fun fact I am Funny
+🎓 Learning MCA (Master of Computer Applications) enthusiast 🚀<br><br>
+💻 Exploring the realms of coding and software development<br><br>
+🌱 Constantly growing and evolving in the world of technology<br><br>
+🔍 Currently delving into algorithms, data structures, and web development<br><br>
+📚 Passionate about learning, sharing knowledge, and collaborating with others<br><br>
+📫 How to reach me yashgajananpal@gmail.com<br><br>
+🤝 Let's connect and create amazing things together!<br><br>
 
 
 ## 🌐 Socials:
