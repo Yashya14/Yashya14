@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashya14&label=Profile%20views&color=0e75b6&style=flat" alt="yashya14" /> </p>
 
 # 💫 About Me:<br>
-🎓 Learning MCA (Master of Computer Applications) enthusiast 🚀<br><br>
+🎓 Learning MCA (Master of Computer Application) enthusiast 🚀<br><br>
 💻 Exploring the realms of coding and software development<br><br>
 🌱 Constantly growing and evolving in the world of technology<br><br>
 🔍 Currently delving into algorithms, data structures, and web development<br><br>
