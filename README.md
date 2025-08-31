@@ -10,7 +10,7 @@
 🚀 Creating engaging web and mobile apps  
 🤖 Learning AI to boost development  
 💡 Focused on clean, scalable code  
-💬 Let’s chat tech and innovation
+💬 Let’s chat tech and innovation  
 ⚡ Fun fact: I make bugs nervous when I’m around! 🐞😄
 
 
