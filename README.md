@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashya14&label=Profile%20views&color=0e75b6&style=flat" alt="yashya14" /> </p>
-# 💫 About Me:
+💫 About Me:
 🔭 I’m currently working on App Development<br><br>🌱 I’m currently learning React Js<br><br>💬 Ask me about Web development<br><br>📫 How to reach me yashgajananpal@gmail.com<br><br>⚡ Fun fact I am Funny
 
 
