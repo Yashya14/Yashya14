@@ -7,11 +7,11 @@
 
 💫 About Me :
 
-🚀 Building dynamic **Web** and **Mobile Applications** that users love  
-🤖 Exploring the potential of **Artificial Intelligence** to enhance development  
-💡 Passionate about crafting clean, efficient, and scalable code  
-💬 Let’s talk about tech, innovation, and creative problem-solving  
-⚡ Fun fact: I’m coding with a smile — because bugs need humor too! 😄
+🚀 Creating engaging web and mobile apps  
+🤖 Learning AI to boost development  
+💡 Focused on clean, scalable code  
+💬 Let’s chat tech and innovation
+⚡ Fun fact: I make bugs nervous when I’m around! 🐞😄
 
 
 ## 🌐 Socials:
